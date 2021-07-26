@@ -4,7 +4,7 @@ info:
   title: Pizza Order API
   license:
     name: Apache 2.0
-  description: 'Pizza ordering API Demo for today'
+  description: 'Pizza ordering APIs for Kong Summit: 2020'
   contact:
     name: Kong
 servers:
